@@ -4,27 +4,9 @@
 
 In this assignment, you'll be building your portfolio layout using the Bootstrap CSS Framework.
 
-## Before You Begin
+## Screenshot 
 
-* You've learned a ton of material: HTML, CSS, GitHub, GitHub Pages, and Bootstrap. If you feel like you're falling behind, there's no need to panic. You'll have plenty of time to digest and master this material.
-
-* We're diving into JavaScript next unit, and HTML/CSS will start receiving less focus. Still, you'll find that a basic knowledge of HTML/CSS will help you understand JavaScript, especially when we use it to manipulate web pages.
-
-## Commits
-
-* Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+<img width="1135" alt="Screenshot 2023-03-19 at 13 43 45" src="https://user-images.githubusercontent.com/118719996/226179210-22f8c9b3-10b9-49c0-bc2b-d8ac637f351e.png">
 
 ## Instructions
 
@@ -92,20 +74,6 @@ In this assignment, you'll be building your portfolio layout using the Bootstrap
 
 6. Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
-## Helpful Resources
-
-- [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-
-- [Responsive Web Design - How to Create Media Queries](https://www.youtube.com/watch?v=5xzaGSYd7jM)
-
-- [Media Queries 101 by CSS Tricks](https://css-tricks.com/css-media-queries/)
-
-- [Media Query Documentation](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-
-- [Github Pages Guide](https://pages.github.com/)
-
-  - Choose "Project Site" and "Start from Scratch" to get correct instructions.
-
 
 ## Grading Requirements
 
@@ -151,6 +119,6 @@ You are required to submit BOTH of the following for review:
 
 ---
 
-## Copyright
+## Deployed link
 
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+https://anthonymirandac.github.io/boot-portfolio/
